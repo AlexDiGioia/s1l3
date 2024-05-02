@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body
+{
+    margin: 0;
+    font-family: "PT Serif", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+h1
+{
+    font-family: "PT Serif", serif;
+    font-size: 32px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h3 
+{
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 0;
+    color: rgb(255, 60, 0);
+}
+
+
+header
+{
+    margin-top: 0.7% ;
+    display: flex;
+    justify-content: center;
+}
+
+main
+{
+    margin-left: 27%;
+}
+
+nav
+{
+    background-color: rgb(253, 244, 223);
+    padding: 1px;
+    margin-top: 1%;
+    width: 100%;
+    color: rgb(30, 116, 87);
+    text-align: center;
+    border-top: 1px solid rgb(255, 180, 18);
+}
+
+figure
+{
+    margin-left: auto;
+}
+
+figure p
+{
+    margin-left: 13vw;
+    color: grey;
+}
+
+a
+{
+    color: rgb(7, 130, 161);
+}
+
+#featured 
+{
+    border-left: 1px solid #ffd23e;
+    padding-left: 1rem;
+    margin-top: 2rem;
+}
+
+#ingredients
+{
+    margin-top: 5%;
+}
+
+#method
+{
+    margin-top: 5%;
+}
+
+#method div 
+{
+    border-bottom: 1px solid lightblue;
+    margin-right: 50%;
+}
+
+#ingredients div 
+{
+    border-bottom: 1px solid lightblue;
+    margin-right: 50%;
+}
+
+video
+{
+    border-radius: 10px;
+}
+
+nav p
+{
+    font-size: 17px;
+}
+
+
+
+.title
+{
+    margin-top: 3%;
+    
+}
